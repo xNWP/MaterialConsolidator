@@ -1,0 +1,7 @@
+Copy this folder (not just the contents but the folder itself) to your
+Cinema 4D plugins directory (typically C:\Program Files\Maxon Cinema 4D R21\plugins).
+
+Plugin by Brett "xNWP" Anthony
+thatnwp.com
+github.com/xNWP
+twitter.com/ThatNWP
